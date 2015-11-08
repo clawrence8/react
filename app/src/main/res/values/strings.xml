@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JamSession</string>
+    <string name="action_settings">Settings</string>
+    <string name="record">Record</string>
+    <string name="stop">Stop</string>
+    <string name="play">Play</string>
+</resources>
